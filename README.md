@@ -73,7 +73,7 @@ source : https://fr.wikipedia.org/wiki/Steve_Wozniak
 l’expression nous vient de Grace Murray Hopper. Engagée en 1943 dans la marine états-unienne, elle est chargée de programmer le Harvard Mark I, considéré comme le premier vrai ordinateur automatique.
 
 Mais un soir de l’été 1945….
-le fabuleux joujou des mathématiciens, capable de faire la somme de deux nombre de 23 chiffres en moins de 3/10ième de seconde,… stoppe tout fonctionnement…
+la machine, capable de faire la somme de deux nombre de 23 chiffres en moins de 3/10ième de seconde,… stoppe tout fonctionnement…
 Après des heures d’auscultation…
 Grace dégaine sa pince à épiler…
 et retire des circuits une mite venue se griller sur la machine…
@@ -84,6 +84,11 @@ source : http://astucieux-filemaker.com/un-bug-est-ne/
 # Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 # Quels sont les prochains rendez-vous tech de Toulouse ?
 # Qui est Aaron Swartz ?
+Aaron Swartz était un informaticien, écrivain, meneur politique et hacktiviste américain.
+
+Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance étant un moyen d'émancipation et de justice.
+
+Aaron Swartz a eu un rôle décisif dans l'essor de l'Internet, tant sur le plan technique notamment en développant le format de flux RSS2, l'organisation Creative Commons3 que sur le plan de la gouvernance juridique et politique en manifestant contre le projet de la loi SOPA (Stop Online Piracy Act).
 # Qu’est-ce que le projet GNU ?
 	Quelles sont les différences entre le Http et le Https ?
 	Qui est Richard Stallman ?
