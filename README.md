@@ -9,13 +9,24 @@ Internet est le réseau informatique mondial, c'est l'infrastructure globale, ba
 Le Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.
 
 Le web n'est qu'un des services accessibles via Internet, il y en a bien d'autre.
-	Qu’est-ce que cela :
-	8.8.8.8
-	192.168.0.1
-	255.255.255.0
-	127.0.0.1
-	Que sont le copyright et le copyleft ?
-	Que sont les Creatives Commons ?
+
+# Qu’est-ce que cela :
+# 8.8.8.8
+# 192.168.0.1
+# 255.255.255.0
+# 127.0.0.1
+
+Ce sont des adresses IP : Une adresse IP (avec IP pour Internet Protocol) est un numéro d'identification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un réseau informatique utilisant l'Internet Protocol.
+
+#Que sont le copyright et le copyleft ?
+copyright :
+Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique.
+
+copyleft :
+Le copyleft est une façon de rendre un programme ou tout autre œuvre libre, et qui requière que toutes les versions modifiées et étendues du programme soient libres également. Le logiciel sous copyleft est un logiciel dont les conditions de distribution interdisent aux nouveaux distributeurs d'ajouter des restrictions supplémentaires lorsqu'ils redistribuent ou modifient le logiciel. 
+
+
+#Que sont les Creatives Commons ?
 	Qui est Grace Hopper ?
 	Qu'est-ce que Qwant ?
 	Qui est Steve Wozniak ?
