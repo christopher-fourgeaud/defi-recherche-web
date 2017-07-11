@@ -63,8 +63,24 @@ Qwant est un moteur de recherche français, créé le 16 février 2013, puis lan
 source : https://fr.wikipedia.org/wiki/Qwant
 
 # Qui est Steve Wozniak ?
+Stephen Gary Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
+
+Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
+
+source : https://fr.wikipedia.org/wiki/Steve_Wozniak
 
 # D'où vient l'expression "bug informatique" ?
+l’expression nous vient de Grace Murray Hopper. Engagée en 1943 dans la marine états-unienne, elle est chargée de programmer le Harvard Mark I, considéré comme le premier vrai ordinateur automatique.
+
+Mais un soir de l’été 1945….
+le fabuleux joujou des mathématiciens, capable de faire la somme de deux nombre de 23 chiffres en moins de 3/10ième de seconde,… stoppe tout fonctionnement…
+Après des heures d’auscultation…
+Grace dégaine sa pince à épiler…
+et retire des circuits une mite venue se griller sur la machine…
+Grace a pris soin de noter tout cela dans le carnet de bord avec la mention « first actual case of bug being found ».
+
+source : http://astucieux-filemaker.com/un-bug-est-ne/
+
 # Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 # Quels sont les prochains rendez-vous tech de Toulouse ?
 # Qui est Aaron Swartz ?
