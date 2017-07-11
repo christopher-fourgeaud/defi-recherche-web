@@ -3,12 +3,16 @@
 # Par qui, quand, pourquoi et où a été inventé Internet ?
 Internet a été inventé par Tim Berners-Lee en 1989 à Genève, son objectif était de faire en sorte que plusieurs personnes puissent se partager des documents informatiques.
 
+source : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
+
 # Quelle est la différence entre le Web et Internet ?
 Internet est le réseau informatique mondial, c'est l'infrastructure globale, basée sur le protocole IP, et sur laquelle s'appuient de nombreux autres services. Dont le web.
 
 Le Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.
 
 Le web n'est qu'un des services accessibles via Internet, il y en a bien d'autre.
+
+source : https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
 
 # Qu’est-ce que cela :
 # 8.8.8.8
@@ -18,12 +22,18 @@ Le web n'est qu'un des services accessibles via Internet, il y en a bien d'autre
 
 Ce sont des adresses IP : Une adresse IP (avec IP pour Internet Protocol) est un numéro d'identification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un réseau informatique utilisant l'Internet Protocol.
 
+source : https://fr.wikipedia.org/wiki/Adresse_IP
+
 # Que sont le copyright et le copyleft ?
 copyright :
 Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique.
 
+source : https://fr.wikipedia.org/wiki/Copyright
+
 copyleft :
 Le copyleft est une façon de rendre un programme ou tout autre œuvre libre, et qui requière que toutes les versions modifiées et étendues du programme soient libres également. Le logiciel sous copyleft est un logiciel dont les conditions de distribution interdisent aux nouveaux distributeurs d'ajouter des restrictions supplémentaires lorsqu'ils redistribuent ou modifient le logiciel. 
+
+source : https://fr.wikipedia.org/wiki/Copyleft
 
 
 # Que sont les Creatives Commons ?
@@ -39,6 +49,8 @@ Creative Commons est une association à but non lucratif dont le but est de prop
 
 - Share alike : partage de l’œuvre, avec obligation de rediffuser selon la même licence ou une licence similaire 
   (version ultérieure ou localisée).
+
+  source : https://fr.wikipedia.org/wiki/Creative_Commons
 
 # Qui est Grace Hopper ?
 # Qu'est-ce que Qwant ?
