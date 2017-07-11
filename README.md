@@ -18,7 +18,7 @@ Le web n'est qu'un des services accessibles via Internet, il y en a bien d'autre
 
 Ce sont des adresses IP : Une adresse IP (avec IP pour Internet Protocol) est un numéro d'identification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un réseau informatique utilisant l'Internet Protocol.
 
-#Que sont le copyright et le copyleft ?
+# Que sont le copyright et le copyleft ?
 copyright :
 Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique.
 
@@ -26,7 +26,7 @@ copyleft :
 Le copyleft est une façon de rendre un programme ou tout autre œuvre libre, et qui requière que toutes les versions modifiées et étendues du programme soient libres également. Le logiciel sous copyleft est un logiciel dont les conditions de distribution interdisent aux nouveaux distributeurs d'ajouter des restrictions supplémentaires lorsqu'ils redistribuent ou modifient le logiciel. 
 
 
-#Que sont les Creatives Commons ?
+# Que sont les Creatives Commons ?
 	Qui est Grace Hopper ?
 	Qu'est-ce que Qwant ?
 	Qui est Steve Wozniak ?
