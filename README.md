@@ -27,14 +27,27 @@ Le copyleft est une façon de rendre un programme ou tout autre œuvre libre, et
 
 
 # Que sont les Creatives Commons ?
-	Qui est Grace Hopper ?
-	Qu'est-ce que Qwant ?
-	Qui est Steve Wozniak ?
-	D'où vient l'expression "bug informatique" ?
-	Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
-	Quels sont les prochains rendez-vous tech de Toulouse ?
-	Qui est Aaron Swartz ?
-	Qu’est-ce que le projet GNU ?
+Creative Commons est une association à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, donnent aucun ou seulement quelques droits aux travaux. 
+
+- Exemple des licences Creative Commons:
+  Attribution : signature de l’auteur initial (obligatoire en droit français)
+
+- Non Commercial : interdiction de tirer un profit commercial de l’œuvre sans autorisation de l'auteur.
+
+- No derivative works : impossibilité d’intégrer tout ou partie dans une œuvre composite ; l'échantillonnage
+  ( sampling), par exemple, devenant impossible.
+
+- Share alike : partage de l’œuvre, avec obligation de rediffuser selon la même licence ou une licence similaire 
+  (version ultérieure ou localisée).
+
+# Qui est Grace Hopper ?
+# Qu'est-ce que Qwant ?
+# Qui est Steve Wozniak ?
+# D'où vient l'expression "bug informatique" ?
+# Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+# Quels sont les prochains rendez-vous tech de Toulouse ?
+# Qui est Aaron Swartz ?
+# Qu’est-ce que le projet GNU ?
 	Quelles sont les différences entre le Http et le Https ?
 	Qui est Richard Stallman ?
 	Comment fonctionnent les bang de Duck Duck Go ?
