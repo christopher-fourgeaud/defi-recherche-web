@@ -89,16 +89,39 @@ Aaron Swartz était un informaticien, écrivain, meneur politique et hacktiviste
 Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance étant un moyen d'émancipation et de justice.
 
 Aaron Swartz a eu un rôle décisif dans l'essor de l'Internet, tant sur le plan technique notamment en développant le format de flux RSS2, l'organisation Creative Commons3 que sur le plan de la gouvernance juridique et politique en manifestant contre le projet de la loi SOPA (Stop Online Piracy Act).
+
 # Qu’est-ce que le projet GNU ?
-	Quelles sont les différences entre le Http et le Https ?
-	Qui est Richard Stallman ?
-	Comment fonctionnent les bang de Duck Duck Go ?
-	Qui est Marissa Mayer ?
-	Qu’est-ce qu’une attaque “brute force” ?
-	Qui est Linus Torvalds ?
-	Quels sont ses plus grands développements ?
-	Combien coûte un nom de domaine ?
-	Quels sont les différents services d'emailing disponibles ?
+Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin de créer un système d'exploitation complet utilisant du logiciel libre. Le développement du logiciel a débuté en janvier de l'année suivante.
+
+# Quelles sont les différences entre le Http et le Https ?
+La sécurité : HTTP n’est pas sécurisé et est soumis à de nombreuses attaques, qui peuvent laisser des attaquants avoir accès à des informations sensibles, en revanche un site Web tout en HTTPS est conçu pour résister et protéger contre de telles attaques.
+
+# Qui est Richard Stallman ?
+Richard Stallman (aussi connu sous le nom de rms), considéré par tous comme le père des logiciels libres a commencé à s'intéresser au sujet lorsqu'il travaillait au laboratoire d'intelligence artificielle au MIT. Le laboratoire possédait une imprimante qui tombait souvent en panne, mais comme les chercheurs avaient le code source du pilote1 de l'imprimante, ils avaient modifié le programme pour que l'imprimante leur envoie un signal à chaque panne.
+Un jour, le laboratoire achète une nouvelle imprimante de marque Xerox, plus fiable. En revanche, le pilote de l'imprimante n'est pas fourni à la livraison. Richard Stallman entend parler plus tard d'un laboratoire qui possède les sources de ce pilote. S'y rendant, on lui répond que le laboratoire s'était engagé à ne pas diffuser les sources du pilote. Ressentant ce refus comme une agression, Richard Stallman prend alors conscience du danger de la logique propriétaire.
+
+Richard Stallman décide alors de fonder la Free Software Foundation. Conscient qu'il est impossible d'utiliser un ordinateur sans système d'exploitation et que sans système d'exploitation libre il est obligatoire d'utiliser des logiciels propriétaires, il démarre le premier projet de la fondation, le projet GNU2. Ce projet vise à concevoir un système d'exploitation complet et entièrement libre. Ce système sera compatible avec UNIX, mais sera différent. Aujourd'hui ce système existe, et s'appelle GNU/Linux.
+
+# Comment fonctionnent les bang de Duck Duck Go ?
+DuckDuckGo permet d'effectuer des requêtes redirigeant vers d'autres moteurs de recherche ou sites en tapant la commande correspondante appelé !bang, en exemple :
+
+la commande « !wfr » ou « !w » redirige directement vers le site Wikipédia, respectivement francophone et anglophone. Ainsi, par exemple, la commande « !wfr duckduckgo » redirige directement vers l'article « DuckDuckGo » de Wikipédia francophone.
+
+la commande « !g » lance la recherche sur Google
+
+la commande « ! » redirige directement vers le premier résultat de la recherche, comme la fonction « J'ai de la chance » de Google.
+
+# Qui est Marissa Mayer ?
+Marissa Ann Mayerest une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation.
+
+# Qu’est-ce qu’une attaque “brute force” ?
+L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles.
+
+Cette méthode est en général considérée comme la plus simple concevable. Elle permet de casser tout mot de passe en un temps fini indépendamment de la protection utilisée, mais le temps augmente avec la longueur du mot de passe. En théorie la complexité d'une attaque par force brute est une fonction exponentielle de la longueur du mot de passe, la rendant virtuellement impossible pour des mots de passe de longueur moyenne, mais en pratique des optimisations heuristiques peuvent donner des résultats dans des délais beaucoup plus courts.
+# Qui est Linus Torvalds ?
+# Quels sont ses plus grands développements ?
+# Combien coûte un nom de domaine ?
+# Quels sont les différents services d'emailing disponibles ?
 	Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 	Quelle est votre adress IP actuelle ?
 	Et celle de votre smartphone ?
