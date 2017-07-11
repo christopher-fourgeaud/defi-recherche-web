@@ -53,8 +53,17 @@ Creative Commons est une association à but non lucratif dont le but est de prop
   source : https://fr.wikipedia.org/wiki/Creative_Commons
 
 # Qui est Grace Hopper ?
+Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 et du langage COBOL en 1959.
+
+source : https://fr.wikipedia.org/wiki/Grace_Hopper
+
 # Qu'est-ce que Qwant ?
+Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.
+
+source : https://fr.wikipedia.org/wiki/Qwant
+
 # Qui est Steve Wozniak ?
+
 # D'où vient l'expression "bug informatique" ?
 # Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 # Quels sont les prochains rendez-vous tech de Toulouse ?
